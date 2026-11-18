@@ -1,0 +1,60 @@
+MIT License
+
+Copyright (c) 2026 voltage522 (Fortelia)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-------------------------------------------------------------------------------
+THIRD-PARTY COMPONENTS
+-------------------------------------------------------------------------------
+
+The MIT licence above covers the Fortelia application code only. The files
+also bundle the following third-party material, each under its own licence:
+
+1. Salamander Grand Piano samples
+   Author: Alexander Holm. Licence: Creative Commons Attribution 3.0 (CC BY 3.0)
+   https://creativecommons.org/licenses/by/3.0/
+   Sample set as prepared by the Tone.js project (https://github.com/Tonejs/audio).
+   The samples were compressed and embedded in the HTML file.
+
+2. three.js
+   Copyright (c) 2010-2026 three.js authors. Licence: MIT.
+   https://github.com/mrdoob/three.js
+
+3. WebXR Input Profiles: generic-hand models (left.glb, right.glb)
+   Copyright Amazon.com, Inc. or its affiliates. Licence: MIT.
+   https://github.com/immersive-web/webxr-input-profiles
+
+4. Full classical pieces: scores from the Mutopia Project
+   (https://www.mutopiaproject.org), converted to MIDI. The compositions are
+   in the public domain. The typeset scores carry these licences:
+   - Public domain: Für Elise (Stelios Samelis), Rondo alla Turca (Rune Zedeler
+     and Chris Sawer), Prelude in C BWV 846 (Tobias Erbsland), Minuet in G
+     (Allen Garvin), Chopin Preludes Op. 28 No. 4 and No. 7 (Magnus
+     Lewis-Smith), Fantaisie-Impromptu (Guy D. Lederfein), Clair de lune and
+     Arabesque No. 1 (Keith OHara), The Entertainer (Chris Sawer), In the Hall
+     of the Mountain King (Coyau), Clementi Sonatina Op. 36 No. 1 (Brian D.
+     Rude), Burgmüller Arabesque (Bas Wassink), Brahms Waltz Op. 39 No. 15
+     (Brian D. Rude).
+   - CC BY-SA 2.5: Moonlight Sonata, 1st movement, typeset by Stewart Holmes.
+   - CC BY-SA 3.0: Sonata K545, 1st movement, typeset by Alejandro Sierra;
+     Invention No. 1, typeset by jeff covey.
+   - CC BY 3.0: Liszt Consolation No. 3, typeset by Ryan Prince.
+   These MIDI files are adaptations of those editions and are shared under the
+   same licences as the editions they come from.
